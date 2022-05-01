@@ -1,4 +1,4 @@
-## Olá! 🖖 Sou o Samuel. Seja Bem vindo ao meu GitHub
+## Hello! 🖖 I'm Samuel. Welcome to my GitHub !
 <div align="center">
   <a href="https://github.com/Samuel-GMartins">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Samuel-GMartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
