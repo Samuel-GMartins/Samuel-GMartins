@@ -12,6 +12,8 @@
   <img align="right" alt="Sam-pic" height="150" style="border-radius:50px;" src="https://github.com/Samuel-GMartins/Samuel-GMartins/blob/main/hack.gif">
    <img align="center" alt="Sam-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sam-Node" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
+  <img align="center" alt="Sam-Node" height="40" width="40" src="https://user-images.githubusercontent.com/101484995/174192583-37c63096-47b0-4810-a0bb-ae613fcda0cb.png">
+  <img align="center" alt="Sam-Node" height="40" width="40" src="https://user-images.githubusercontent.com/101484995/174192650-71efb3de-8cc6-436f-8882-10dd4f99a6f1.png">
 </div>
  
   ### Find me elsewhere 🌎 
