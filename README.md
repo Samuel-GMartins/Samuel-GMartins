@@ -1,17 +1,18 @@
 ## Hello! 🖖 I'm Samuel. Welcome to my GitHub !
+
+<h3 align="left">🚀 My metrics on github</h3>
+
 <div align="center">
   <a href="https://github.com/Samuel-GMartins">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Samuel-GMartins&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-GMartins&layout=compact&langs_count=7&theme=radical"/>
-</div>
- 
-  <h3 align="left">Minhas métricas no GitHub:</h3>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Samuel-GMartins)  
   
-<div style="display: inline_block">
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Samuel-GMartins)  
+    
+  </div>
  
-<h3 align="left">Developed technical knowledge</h3>
+<h3 align="left">👨‍💻 Developed technical knowledge</h3>
   
   <img align="center" alt="Sam-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sam-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,7 +23,7 @@
   <img align="center" alt="Sam-Node" height="40" width="40" src="https://user-images.githubusercontent.com/101484995/174192650-71efb3de-8cc6-436f-8882-10dd4f99a6f1.png">
 </div>
   
-  ### Find me elsewhere 🌎 
+  ### 🌎 Find me elsewhere  
 <div> 
   <a href="https://www.instagram.com/sgmartinss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:sa.samuelmartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
